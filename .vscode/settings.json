@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "src/model",
+        "src"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
